@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,tensor.art
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,lwgod.org
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
